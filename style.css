@@ -1,0 +1,57 @@
+body{
+    font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.bg-sec-1{
+    padding-top: 8em;
+    height: 100%; 
+    background-image: linear-gradient(#e3e3e3 , #cccccc );
+    /* Center and scale the image nicely 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.pro-pic {
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+}
+.bg-sec-3{
+    background-color: #f7f7f7;
+}
+.bg-footer{
+    background-image: linear-gradient(#e3e3e3 , #cccccc );
+}
+.fa-facebook{
+    color: #4267B2
+    ;
+}
+.fa-whatsapp{
+    color: #28D146
+    ;
+}
+.fa-twitter{
+    color: #00acee;
+}
+.fa-instagram{
+    color: #8a3ab9;
+}
+.fixed-header{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.yt-video{
+    height: 397px;
+    width: 542px;
+    margin-top: 50px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/DiscordFonts/Whitney/Whitney-700.woff);
+  }
+  
+  div {
+    font-family: myFirstFont;
+  }
